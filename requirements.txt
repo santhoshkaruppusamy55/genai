@@ -4,3 +4,6 @@ langchain
 streamlit
 python-dotenv
 PyPDF2
+langchain-groq
+
+-e .
